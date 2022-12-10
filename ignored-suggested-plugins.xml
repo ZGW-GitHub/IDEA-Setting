@@ -1,0 +1,16 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="idea.plugin.protoeditor" />
+        <option value="com.haulmont.jpab" />
+        <option value="com.intellij.grpc" />
+        <option value="com.intellij.selenium" />
+        <option value="com.intellij.drools" />
+        <option value="org.jetbrains.plugins.vue" />
+        <option value="intellij.vitejs" />
+        <option value="com.intellij.kubernetes" />
+      </list>
+    </option>
+  </component>
+</application>

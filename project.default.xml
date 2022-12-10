@@ -1,0 +1,159 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="AutoImportSettings">
+        <option name="autoReloadType" value="SELECTIVE" />
+      </component>
+      <component name="BookmarksManager">
+        <option name="groups">
+          <GroupState>
+            <option name="name" value="Default (Template) Project" />
+          </GroupState>
+        </option>
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="/Users/k/App/maven/apache-maven-3.6.3" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>Android</id>
+              </State>
+              <State>
+                <id>Android Lint: Interoperability</id>
+              </State>
+              <State>
+                <id>JVM 语言</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>Java 5Java 语言级别迁移帮助Java</id>
+              </State>
+              <State>
+                <id>Java 8Java 语言级别迁移帮助Java</id>
+              </State>
+              <State>
+                <id>Java 语言级别迁移帮助Java</id>
+              </State>
+              <State>
+                <id>Java 语言级迁移帮助Java</id>
+              </State>
+              <State>
+                <id>JavadocJava</id>
+              </State>
+              <State>
+                <id>Kotlin</id>
+              </State>
+              <State>
+                <id>LintAndroid</id>
+              </State>
+              <State>
+                <id>Plugin DevKit</id>
+              </State>
+              <State>
+                <id>Spring</id>
+              </State>
+              <State>
+                <id>Spring AOPSpring</id>
+              </State>
+              <State>
+                <id>TestNGJava</id>
+              </State>
+              <State>
+                <id>代码Plugin DevKit</id>
+              </State>
+              <State>
+                <id>代码成熟度Java</id>
+              </State>
+              <State>
+                <id>性能Java</id>
+              </State>
+              <State>
+                <id>数值问题Java</id>
+              </State>
+              <State>
+                <id>测试框架JVM 语言</id>
+              </State>
+              <State>
+                <id>类结构Java</id>
+              </State>
+              <State>
+                <id>线程问题Java</id>
+              </State>
+              <State>
+                <id>编译器问题Java</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Android</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="oracle-8" project-jdk-type="JavaSDK" />
+      <component name="ProjectViewState">
+        <option name="compactDirectories" value="true" />
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="showLibraryContents" value="true" />
+        <option name="showModules" value="false" />
+      </component>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "go.import.settings.migrated": "true",
+    "project.structure.last.edited": "SDK",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "settings.sync"
+  }
+}]]></component>
+      <component name="WindowStateProjectService">
+        <state x="752" y="322" width="883" height="676" key="#运行/调试配置模板" timestamp="1668569251125">
+          <screen x="0" y="25" width="2304" height="1271" />
+        </state>
+        <state x="752" y="322" width="883" height="676" key="#运行/调试配置模板/0.25.2304.1271" timestamp="1668569251125" />
+        <state x="640" y="238" key="SettingsEditor" timestamp="1669885190110">
+          <screen x="0" y="25" width="2304" height="1271" />
+        </state>
+        <state x="640" y="238" key="SettingsEditor/0.25.2304.1271" timestamp="1669885190110" />
+      </component>
+      <component name="arthas.idea.plugin">
+        <option name="redisAddress" value="" />
+        <option name="redisAuth" value="" />
+        <option name="redisCacheKey" value="" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI" />
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>graalvm-ee-17</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI" />
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

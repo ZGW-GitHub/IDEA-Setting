@@ -1,0 +1,15 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="124.223.36.171" id="b917b96a-94ea-4817-8cab-e3c7ece1bc0c" port="22" customName="Linux-大" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="Linux-大" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="124.223.3.202" id="6e4880fb-45d3-4b7d-ac7d-217bd017dc0b" port="22" customName="Linux-小" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="Linux-小" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="124.223.38.109" id="9a6c8044-05cf-4395-b0e4-d724a1a81e1f" port="10022" customName="Linux-齐齐" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="Linux-齐齐" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>

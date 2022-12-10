@@ -1,0 +1,11 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="所有位置" />
+    <option name="defaultScopeName" value="所有位置" />
+    <option name="SEARCH_SCOPE" value="所有位置" />
+    <mask>*.gradle</mask>
+    <mask>*.yml</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+  </component>
+</application>

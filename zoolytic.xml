@@ -1,0 +1,9 @@
+<application>
+  <component name="Zoolytic">
+    <option name="clusters">
+      <list>
+        <option value="124.223.36.171:12181" />
+      </list>
+    </option>
+  </component>
+</application>

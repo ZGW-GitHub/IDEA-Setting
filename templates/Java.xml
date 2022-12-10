@@ -1,0 +1,10 @@
+<templateSet group="Java">
+  <template name="souf" value="System.out.printf(&quot;$END$ \n&quot;);" description="将一个格式化字符串打印到 System.out" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="serf" value="System.err.printf(&quot;$END$ \n&quot;);" description="将一个字符串打印到 System.err" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
